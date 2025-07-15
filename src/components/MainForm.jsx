@@ -128,6 +128,7 @@ export default function MainForm(){
         case 4: {
             currentStep= <SummaryCard />; break;
         }
+         default: currentStep = <PersonalinfoCard />; break;
     }
 
     return (
@@ -140,7 +141,7 @@ export default function MainForm(){
                             key={navState.step}
                             custom={direction}
                             variants={variants}
-                            initial="inital"
+                            initial="initial"
                             animate="animate"
                             exit="exit"
                             transition={{duration: 0.3, ease: "easeOut"}}

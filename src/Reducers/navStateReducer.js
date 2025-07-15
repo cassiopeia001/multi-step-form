@@ -15,7 +15,7 @@ export default function navStateReducer (state, action){
         case "GO_TO": {
             return {
                 step: action.value,
-                direction: state.step > action.value ? -1 : 1
+                direction: -1
             }
         }
         default: 

@@ -29,12 +29,13 @@ export default function SummaryCard (){
                 <div className="flex justify-between pb-3 border-b-[1px] border-blue-100" role="group" aria-label="selected plan">
                     <div>
                         <h2 className="text-Blue-950 font-medium mb-0">{planType.charAt(0).toUpperCase()+ planType.slice(1) + (billingType==="monthly"? " (Monthly)":" (Yearly)")}</h2>
-                        <button className="text-Grey-500 underline cursor-pointer font-medium hover:text-Purple-600
+                        <button type="button" className="text-Grey-500 underline cursor-pointer font-medium hover:text-Purple-600
                                 transition-colors duration-200 ease-in-out"
-                            onClick={()=> navStateDispatch({
-                                type: "GO_TO",
-                                value: 2
-                            })}>Change</button>
+                            onClick={()=> {
+                                
+                                 navStateDispatch({ type: "GO_TO", value: 2 });
+                                
+                                }}>Change</button>
                     </div>
                     <p className="text-Blue-950 font-bold">${planPrice}/{abbr}</p>
                 </div>
