@@ -1,4 +1,4 @@
-# Frontend Mentor - Multi-step form solution
+# Multi-step form
 
 This is a solution to the [Multi-step form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -11,10 +11,6 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
 
 ## Overview
 
@@ -34,18 +30,19 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/Multi-step-form-persinfo.png)
-![](./assets/images/Multi-step-form-plan-selection.png)
-![](./assets/images/Multi-step-form-plan-selection-yearly.png)
-![](./assets/images/Multi-step-form-addOn-selection.png)
-![](./assets/images/Multi-step-form-summary.png)
-![](./assets/images/Multi-step-form-completed.png)
+![](/multi-step-form/assets/images/Multi-step-form-persinfo.png)
+![](/multi-step-form/assets/images/Multi-step-form-plan-selection.png)
+![](/multi-step-form/assets/images/Multi-step-form-plan-selection-yearly.png)
+![](/multi-step-form/assets/images/Multi-step-form-addOn-selection.png)
+![](/multi-step-form/assets/images/Multi-step-form-summary.png)
+![](/multi-step-form/assets/images/Multi-step-form-completed.png)
+
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/cassiopeia001/multi-step-form)
-- Live Site URL: [Add live site URL here](https://cassiopeia001.github.io/multi-step-form/)
+- Solution URL: [solution URL](https://github.com/cassiopeia001/multi-step-form)
+- Live Site URL: [live site URL](https://cassiopeia001.github.io/multi-step-form/)
 
 ## My process
 
