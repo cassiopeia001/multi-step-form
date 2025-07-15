@@ -23,7 +23,7 @@ function App() {
         <div className='z-10 relative w-full h-full flex flex-col md:bg-White md:flex-row md:w-[90%] lg:w-[75%] xl:w-[65%] md:p-3 md:rounded-xl'>
 
           <div className="md:w-[30%] md:relative"> 
-            <img className='hidden absolute w-full h-full left-0 -z-10 object-cover rounded-lg md:block' src="/assets/images/bg-sidebar-desktop.svg" alt="" />
+            <img className='hidden absolute w-full h-full left-0 -z-10 object-cover rounded-lg md:block' src="/multi-step-form/assets/images/bg-sidebar-desktop.svg" alt="" />
             <SideBar />
           </div>
           <div className='md:w-[70%] md:flex md:justify-center md:px-5 lg:px-10'>

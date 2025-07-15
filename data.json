@@ -3,7 +3,7 @@
         {
             "key": "arcade",
             "type": "Arcade",
-            "icon": "/assets/images/icon-arcade.svg",
+            "icon": "/multi-step-form/assets/images/icon-arcade.svg",
             "price": {
                 "monthly": 9,
                 "yearly": 90
@@ -12,7 +12,7 @@
          {
             "key": "advanced",
             "type": "Advanced",
-            "icon": "/assets/images/icon-advanced.svg",
+            "icon": "/multi-step-form/assets/images/icon-advanced.svg",
             "price": {
                 "monthly": 12,
                 "yearly": 120
@@ -21,7 +21,7 @@
         {
             "key": "pro",
             "type": "Pro",
-            "icon": "/assets/images/icon-pro.svg",
+            "icon": "/multi-step-form/assets/images/icon-pro.svg",
             "price": {
                 "monthly": 15,
                 "yearly": 150
