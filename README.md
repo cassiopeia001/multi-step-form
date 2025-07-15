@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](/multi-step-form/assets/images/Multi-step-form-persinfo.png)
-![](/multi-step-form/assets/images/Multi-step-form-plan-selection.png)
-![](/multi-step-form/assets/images/Multi-step-form-plan-selection-yearly.png)
-![](/multi-step-form/assets/images/Multi-step-form-addOn-selection.png)
-![](/multi-step-form/assets/images/Multi-step-form-summary.png)
-![](/multi-step-form/assets/images/Multi-step-form-completed.png)
+![Personal info step](./assets/images/Multi-step-form-persinfo.png)
+![Plan selection step](./assets/images/Multi-step-form-plan-selection.png)
+![Yearly Plan selection](./assets/images/Multi-step-form-plan-selection-yearly.png)
+![Add-On selection step](./assets/images/Multi-step-form-addOn-selection.png)
+![Summary](./assets/images/Multi-step-form-summary.png)
+![Thank you msg](./assets/images/Multi-step-form-completed.png)
 
 
 
