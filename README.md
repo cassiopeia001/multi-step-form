@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/cassiopeia001/multi-step-form)
+- Live Site URL: [Add live site URL here](https://cassiopeia001.github.io/multi-step-form/)
 
 ## My process
 
@@ -56,32 +56,15 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - Accessibility
+- Responsive design best practises
 - [React](https://reactjs.org/) - JS library
 - [Tailwind](https://tailwindcss.com/) - CSS framework
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This project was a great learning experience that challenged me in several ways. Building a multi-step form allowed me to work with React’s useReducer hook, which proved to be an efficient tool for managing complex state logic. I also leveraged the Context API to pass data through deeply nested components, effectively avoiding prop drilling. Ensuring accessibility presented a technical challenge, but it helped me write cleaner, more inclusive code and strengthened my understanding of accessibility guidlines and best practises. Additionally, I learned to use Framer Motion to implement smooth, visually appealing animations throughout the form. 
 
-To see how you can add code snippets, see below:
-
-### Continued development
-
-
-
-
-### Useful resources
-
-
-
-## Author
-
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
 
 
 
