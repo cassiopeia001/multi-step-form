@@ -65,7 +65,7 @@ export default function SummaryCard (){
             </div>
             <dl className="px-4 mt-2 flex justify-between text-Grey-500">
                 <dt>Total (per month)</dt>
-                <dd className="text-Purple-600 font-bold">+${total}/{abbr}</dd>
+                <dd className="text-Purple-600 font-bold">${total}/{abbr}</dd>
             </dl>
         </div>
     )
